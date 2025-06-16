@@ -1,4 +1,4 @@
-# TodayProject
+# RandomEmojiApp
 
 A Flutter-based mobile application offering random emoji display, task management, and comprehensive user profiles with Firebase integration for secure data storage and authentication.
 
