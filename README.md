@@ -98,7 +98,7 @@ A Flutter-based mobile application offering random emoji display, task managemen
 
 Built with:
 
-- Flutter SDK (>=3.0)
+- Flutter SDK (3.7.0)
 - Dart
 - Firebase CLI & Tools
 - Android Studio / VS Code
