@@ -46,9 +46,9 @@ A Flutter-based mobile application offering random emoji display, task managemen
 
 ```json
 {
-  "name": "John",
-  "surname": "Doe",
-  "email": "john.doe@example.com",
+  "name": "Ali",
+  "surname": "Ahmed",
+  "email": "AliAhmed@example.com",
   "adress": "123 Main St",
   "living-city": "Anytown",
   "birth-date": "1990-01-01",
