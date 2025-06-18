@@ -65,7 +65,7 @@ A Flutter-based mobile application offering random emoji display, task managemen
 
 ## Configuration
 
-- Multi-platform Firebase setup (Android, iOS, Web)
+- Multi-platform Firebase setup (Android, Web)
 - Add `google-services.json` (Android) and `GoogleService-Info.plist` (iOS)
 - Update `FirebaseOptions` in `main.dart` for web
 - `.gitignore` configured to exclude build artifacts and IDE files
